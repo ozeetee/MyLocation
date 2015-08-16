@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_loading_msg">Please wait while fetching location \n data from GeoName
+        service
+    </string>
+</resources>

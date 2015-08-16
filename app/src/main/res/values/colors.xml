@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">@color/green</color>
+    <color name="tab_icon_green">#11DAB1</color>
+    <color name="black">#000000</color>
+    <color name="ultra_dark_80">#CC29303F</color>
+    <color name="ultra_dark">#29303F</color>
+    <color name="ultra_dark_transparent">#8029303F</color>
+    <color name="dark">#696E79</color>
+    <color name="medium">#94989F</color>
+    <color name="light">#D5D6D9</color>
+    <color name="light_80">#CCD5D6D9</color>
+    <color name="light_60">#96D5D6D9</color>
+    <color name="light_40">#66D5D6D9</color>
+    <color name="light_20">#33D5D6D9</color>
+    <color name="ultra_light">#F5F5F6</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="green">#0fb73d</color>
+    <color name="green_dark">#0ba823</color>
+    <color name="green_light">#B8F4E8</color>
+
+    <color name="blue">#58ACEE</color>
+    <color name="red">#F16565</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="grey">#ff787878</color>
+    <color name="text_gray">#8b8b8b</color>
+
+    <!-- Material Colors for cards-->
+    <color name="deep_purple">#673AB7</color>
+    <color name="deep_bluesh_grey">#2D566B</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+
+    <color name="primary">@color/green</color>
+    <color name="primary_dark">@color/green_dark</color>
+    <color name="primary_light">@color/green_light</color>
+    <color name="accent">#FF4081</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+</resources>
